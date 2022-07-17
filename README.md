@@ -27,15 +27,17 @@ ACTIVIDAD- CAPÍTULO 11 Y CAPÍTULO 12
 •	Analizar y desarrollar circuitos magnéticos mediante su tipo de material, en serie y paralelo.
 
 2. MARCO TEÓRICO
-![](https://github.com/erichanguan/TAREA-6/blob/main/IMAGENES/cap11.1.png
 
-![](https://github.com/erichanguan/TAREA-6/blob/main/IMAGENES/cap11.2.png
+![](https://github.com/erichanguan/TAREA-6/blob/main/IMAGENES/cap11.1.png)
 
-![](https://github.com/erichanguan/TAREA-6/blob/main/IMAGENES/cap12.1.png
+![](https://github.com/erichanguan/TAREA-6/blob/main/IMAGENES/cap11.2.png)
 
-![](https://github.com/erichanguan/TAREA-6/blob/main/IMAGENES/cap12.2.png
+![](https://github.com/erichanguan/TAREA-6/blob/main/IMAGENES/cap12.1.png)
+
+![](https://github.com/erichanguan/TAREA-6/blob/main/IMAGENES/cap12.2.png)
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS 
+
 ![](https://github.com/erichanguan/TAREA-6/blob/main/IMAGENES/11.1%20cap11.png)
 
 ![](https://github.com/erichanguan/TAREA-6/blob/main/IMAGENES/11.2%20cap11.png)
@@ -78,6 +80,7 @@ ACTIVIDAD- CAPÍTULO 11 Y CAPÍTULO 12
 
 
 4.VIDEO
+
 
 5. CONCLUSIONES
 
