@@ -1,5 +1,8 @@
+
 # TAREA-6
+
 Informe Tarea No.6 de los capítulos 11 y capítulo 12 del libro de Thomas Floyd Principios de Circuitos Eléctricos 8 edición.
+
 UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE
 
 NOMBRE: CHANGUAN ERIKA
@@ -81,6 +84,7 @@ ACTIVIDAD- CAPÍTULO 11 Y CAPÍTULO 12
 
 4.VIDEO
 
+https://youtu.be/vS-7EF2-l8Q
 
 5. CONCLUSIONES
 
