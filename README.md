@@ -101,3 +101,4 @@ Floyd, TL, Salas, RN, González, LMO y López, GP (2007). Principios de circuito
 RÚBRICA
 
 ![](https://github.com/doalulema/InformeTarea/blob/main/Tarea.png)
+
